@@ -1,0 +1,6 @@
+/var/www/html/forum java/src/ChatWindow.java
+/var/www/html/forum java/src/Main.java
+/var/www/html/forum java/src/Message.java
+/var/www/html/forum java/src/Database.java
+/var/www/html/forum java/src/User.java
+/var/www/html/forum java/src/Forum.java
